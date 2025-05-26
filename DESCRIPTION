@@ -1,7 +1,7 @@
 Package: spatemR
 Type: Package
 Title: Generalized Spatial Autoregresive Models for Mean and Variance
-Version: 1.0.0
+Version: 1.1.0
 Authors@R: c(person("Nelson Alirio", "Cruz Gutierrez", 
                 role = c("aut", "cre","cph"), email = "nelson-alirio.cruz@uib.es"), 
           person("Oscar Orlando", "Melo", role = "aut",
@@ -17,10 +17,10 @@ Suggests: testthat (>= 3.0.0), sp, spdep
 Config/testthat/edition: 3
 RoxygenNote: 7.3.2
 NeedsCompilation: no
-Packaged: 2025-04-02 09:04:07 UTC; UIB
+Packaged: 2025-05-26 17:20:28 UTC; UIB
 Author: Nelson Alirio Cruz Gutierrez [aut, cre, cph],
   Oscar Orlando Melo [aut],
   Jurgen Toloza-Delgado [aut]
 Maintainer: Nelson Alirio Cruz Gutierrez <nelson-alirio.cruz@uib.es>
 Repository: CRAN
-Date/Publication: 2025-04-03 15:00:02 UTC
+Date/Publication: 2025-05-26 17:30:02 UTC
